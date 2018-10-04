@@ -1,0 +1,63 @@
+.table{
+    border-collapse: collapse;
+    background-color: #4E69A2;
+    
+    
+}
+.bg2{
+        
+        background-image: linear-gradient(#fff, #3b599870);
+        height: 180px;
+        padding-bottom: 10%;
+       
+    
+}
+.facebook{
+color: #fff;
+padding-left: 20%;
+padding-top: 3%;
+}
+.pad{
+    width: 50%;
+    padding-left: 10%;
+    margin-top: 30%;
+}
+.image{
+    margin-top: 50%;
+}
+.butt{
+    height: 30px;
+    border-radius: 5px;
+    
+    
+}
+.sub{
+    background-color: green;
+    width: 30%;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    font-size: 150%;
+}
+.connex{
+    background-color: blue;
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    border: solid blue;
+    color: white;
+}
+.colorW{
+    color: #fff;
+}
+.colorTW{
+    
+}
+.widhtL{
+    width: 55%;
+    
+}
+.widhtHeightSelect{
+    width: 70px;
+    height: 20px;
+}
